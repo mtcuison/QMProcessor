@@ -183,15 +183,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\My Applications\ggcAppDriver\ggcAppDriver.vbproj">
-      <Project>{6FA248F3-A2BA-43DF-BE98-032E11714DB5}</Project>
+      <Project>{6fa248f3-a2ba-43df-be98-032e11714db5}</Project>
       <Name>ggcAppDriver</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\My Applications\ggcGOCAS\ggcGOCAS.vbproj">
-      <Project>{8F93865B-7346-4760-8DA1-67E7735F51A8}</Project>
+      <Project>{8f93865b-7346-4760-8da1-67e7735f51a8}</Project>
       <Name>ggcGOCAS</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\My Applications\rmjGOCAS\rmjGOCAS.vbproj">
-      <Project>{B96645E6-B47E-46F3-855E-E2AA501D680E}</Project>
+      <Project>{b96645e6-b47e-46f3-855e-e2aa501d680e}</Project>
       <Name>rmjGOCAS</Name>
     </ProjectReference>
   </ItemGroup>
